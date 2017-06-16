@@ -7,6 +7,6 @@
   "tslint": "latest",
   "tslint-react": "latest",
   "typescript": "latest",
-  "r-n-t-typescript-postinstall": "jmfirth/r-n-t-typescript-jest-postinstall",
+  "r-n-t-typescript-jest-postinstall": "jmfirth/r-n-t-typescript-jest-postinstall",
   "husky": "latest"
 }

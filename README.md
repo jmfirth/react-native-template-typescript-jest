@@ -15,7 +15,7 @@ Included in the template:
 ## Use the Template
 
 ```sh
-react-native init AwesomeTSProject --template typescript --skip-jest
+react-native init AwesomeTSProject --template typescript-jest --skip-jest
 ```
 
 Run as usual!

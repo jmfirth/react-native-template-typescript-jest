@@ -1,6 +1,7 @@
 {
   "@types/react": "latest",
   "@types/react-native": "latest",
+  "@types/jest": "latest",
   "jest": "latest",
   "react-test-renderer": "next",
   "ts-jest": "latest",
